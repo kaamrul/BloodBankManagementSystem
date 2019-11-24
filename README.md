@@ -44,7 +44,6 @@ The project is aimed to automate the blood bank sector which is manually maintai
 This project is developed by,
 - PHP 
 - HTML, CSS
-- CSS framework (Bootstrap-4)
 - jQuery, JavaScript
 
 **Note:** The database name of this project is **"bbms"** and **blood_bank.sql** file is inside the **'db'** folder. If you want to clone and use the project, then after cloning rename the base folder as **"BBMS"**. Otherwise this application will not work properly. If you want to make change the base folder as you want, you have to change the base_url from config and also change .htaccess file. 
