@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Online Blood Bank Management System
 
 The project is aimed to automate the blood bank sector which is manually maintained. In the Manual system, people have to visit blood bank for donate blood or taking blood. After the automation this will mean better services and good keeping of records, data integrity, data security, quick search and also paperless environment. Every user of the system will have to log in to the system using email and password so that security and authentication will be ensured. Once logged in, a user can make a blood request, check request status. The Donor will be accept or reject blood request.  The system administrator is able to manage campaign, donor information and also monitoring the whole system. The purpose of these development included in this project is to replace the manual system with a digital computerized system. This system is developed by PHP.
@@ -57,6 +56,3 @@ Thanks & Regards
 *[Md. Kamrul Hasan]*
 
 `Email: mk.kamrulhasan69@gmail.com`
-=======
-# BloodBankManagementSystem
->>>>>>> 5812fc75bc01d9a4c369156085d2b52901b01751
