@@ -56,5 +56,3 @@ Thanks & Regards
 *[Md. Kamrul Hasan]*
 
 `Email: mk.kamrulhasan69@gmail.com`
-
-#### Have a look to project interface [screenshots](D:\My Study Arena\IUBAT Education\12th Semester\bbms\Internship BBMS Final Report-2019 for IUBAT\Chapter 8 picture)
